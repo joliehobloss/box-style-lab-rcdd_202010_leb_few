@@ -5,6 +5,7 @@ body, html {
   margin: 0 auto;
   display: block;
   text-align: center;
+  background-image: url("images/white-wood.jpg");
   
 }
 
@@ -14,7 +15,7 @@ body, html {
   min-width: 400px;
   padding: 10px;
   margin: 10px auto;
-  background-image: url("./images/white-wood.jpg");
+  
 }
 
 h4 {
